@@ -1,0 +1,12 @@
+1. Start Apache and MySQL in XAMPP server .
+2. Using XAMPP server go to the localhost/ by clicking on Admin.
+3. Then create a new database by name "computerfirm".
+4. Go to Import , then choose the location to the sql file I've inluded in the folder.
+4. Click on go.
+5. Successfully data will be added to the database.
+6. If the username and password of your localhost XAMPP server is changed from default (default username: "root", and password is empty "") 
+   please go to the connectivity folder in the src folder inside the PP2 assignment folder and change the username and password.
+7. Then run the program using IntelliJ or else run the .jar file in artifacts folder.
+ 
+
+Only if the database is successfully added to your computer localhost XAMPP server the tables in the program will load.
