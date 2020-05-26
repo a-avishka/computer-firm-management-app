@@ -1,6 +1,6 @@
 # Computer Firm Management App
 
-[![Computer firm management](https://res.cloudinary.com/marcomontalbano/image/upload/v1590516258/video_to_markdown/images/google-drive--1S_a-Vk1Jkn_bAhxZi8TEbxpydSAskwVL-4834888bcd2b4555e72811f2a6951e10.jpg)](https://drive.google.com/open?id=1S_a-Vk1Jkn_bAhxZi8TEbxpydSAskwVL "Computer firm management")lh3.googleusercontent.com/HxYrFQVv3twzdhaF3X83isS9wcGC46e0slKqFN1BqjyTSs9f1wz73iEAifAeZR667rWIL7CPaAo "Employee UI")
+[![Computer firm management](https://res.cloudinary.com/marcomontalbano/image/upload/v1590516258/video_to_markdown/images/google-drive--1S_a-Vk1Jkn_bAhxZi8TEbxpydSAskwVL-4834888bcd2b4555e72811f2a6951e10.jpg)](https://drive.google.com/open?id=1S_a-Vk1Jkn_bAhxZi8TEbxpydSAskwVL "Computer firm management")
 
 An application built using Java, JavaFX and MySQL to manage employees and record customer and contract details in a computer consultancy firm.  
 
